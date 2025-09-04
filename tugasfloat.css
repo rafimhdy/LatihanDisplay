@@ -1,0 +1,84 @@
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.container {
+    width: 500px;
+    height: 700px;
+    border: rgb(106, 163, 175) solid;
+}
+
+.satu {
+    background-color: rgba(133,148,176,255);
+    height: 50px;
+    width: 100%;
+    overflow: hidden;
+    line-height: 50px;
+}
+
+.satu h4 {
+    color: whitesmoke;
+    margin: 0;
+    float: left;
+    margin: 0 15px;
+}
+
+.satu ul {
+    float: right;
+    margin: 0px;
+    padding: 0px;
+}
+
+.satu li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.satu a {
+    text-decoration: none;
+    color: whitesmoke;
+}
+
+.dua {
+    background-color: #fff1cc;
+    height: 200px;
+}
+
+.tiga {
+    background-color: #fffe03;
+    float: left;
+    height: 125px;
+    width: 125px;
+}
+
+.empat {
+    background-color: #bf8e03;
+    float: left;
+    height: 125px;
+    width: 125px;
+}
+
+.lima {
+    background-color: #2f73b4;
+    float: left;
+    height: 125px;
+    width: 125px;
+}
+
+.enam {
+    background-color: #547f37;
+    float: left;
+    height: 125px;
+    width: 125px;
+}
+
+.tujuh {
+    background-color: #bed4ee;
+    height: 400px;
+}
+
+.delapan {
+    background-color: #8594b0;
+    height: 50px;
+}
