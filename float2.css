@@ -17,7 +17,21 @@
     height: 100px;
 }
 
+.duasetengah {
+    height: 100px;
+    width: 100%;
+    background-color: #81a3c5;
+    text-align: center;
+}
 
+
+.kotaksatu, .kotakdua, .kotaktiga, .kotakempat {
+    display: inline-block;
+    margin: 10px;
+    height: 75px;
+    width: 75px;
+    background-color: whitesmoke;
+}
 
 .tiga {
     background-color: #e2e0e2;
@@ -55,8 +69,4 @@
 
 .cf:after {
     clear: both;
-}
-
-.cf {
-    *zoom: 1;
 }
