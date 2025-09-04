@@ -1,0 +1,62 @@
+.tugas {
+    margin-top: 50px;
+    width: 450px;
+    height: 600px;
+    margin: 0 500px;
+}
+
+.satu {
+    background-color: black;
+    width: 100%;
+    height: 25px;
+}
+
+.dua {
+    background-color: #9dc1e4;
+    width: 100%;
+    height: 100px;
+}
+
+
+
+.tiga {
+    background-color: #e2e0e2;
+    float: left;
+    height: 350px;
+    width: 75px;
+}
+
+.empat {
+    background-color: #fff0ce;
+    height: 350px;
+    width: 300px;
+    float: left;
+}
+
+.lima {
+    background-color: #e2e0e2;
+    float: left;
+    height: 350px;
+    width: 75px;
+}
+
+.enam {
+    background-color: black;
+    width: 100%;
+    height: 25px;
+    clear: both;
+}
+
+.cf:before,
+.cf:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.cf:after {
+    clear: both;
+}
+
+.cf {
+    *zoom: 1;
+}
